@@ -1,0 +1,13 @@
+index.html <!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Diccionario Yahocu</title>
+</head>
+<body>
+
+  <h1>Diccionario Yahocu</h1>
+  <p>Esto es una prueba. Si ves este texto, la página funciona.</p>
+
+</body>
+</html>
