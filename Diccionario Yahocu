@@ -18,9 +18,9 @@
     const palabras = {
       agua: {
         pronunciación: "Glowa",
-        imagen: "Ner-wen de Agua.JPG"
-        "Trazos de Ner-wen de Agua.JPG"
-        "Version cursiva del ner-wen de Agua.JPG"
+        imagen: "ner-wendeagua.JPG"
+        "trazosdelnerwendeagua.JPG"
+        "cursivadeagua.JPG"
       }
     };
 
